@@ -204,7 +204,7 @@ For further discussion, please enter [Telegram](https://t.me/troncoredevscommuni
 | TIP&nbsp;3326 | [TIP-3326: Wallet Switch TRON Chain Method](https://github.com/tronprotocol/tips/blob/master/tip-3326.md)                                                     |    <aaronluotron@gmail.com>    | Standards&nbsp;Track | Interface  |     false      |   Final   |
 | TIP&nbsp;4906 | [TRC-4906: Fork from ERC-4907 Rental NFT](https://github.com/tronprotocol/tips/blob/master/tip-4906.md)                                                       |         <lopeed_prcy>          | Standards&nbsp;Track |    TRC     |     false      |   Final   |
 | TIP&nbsp;6780 | [Implement EIP-6780: SELFDESTRUCT only in same transaction](https://github.com/tronprotocol/tips/blob/master/tip-6780.md)                                     |     <liang3885@gmail.com>      | Standards&nbsp;Track |     VM     |      true      |   Final   |
-| TIP&nbsp;8004 | [TRC-8004: Trustless Agents](https://github.com/tronprotocol/tips/blob/master/tip-8004.md)                                                       |         <team@bankofai.io>          | Standards&nbsp;Track |    TRC     |     false      |   Last Call   |
+| TIP&nbsp;8004 | [TRC-8004: Trustless Agents](https://github.com/tronprotocol/tips/blob/master/tip-8004.md)                                                       |         <team@bankofai.io>          | Standards&nbsp;Track |    TRC     |     false      |   Final   |
 
 </details>
 
