@@ -3,7 +3,7 @@ tip: 24
 title: Implement DB storage with RocksDB
 author: @shydesky <shydesky@gmail.com>
 discussions to: https://github.com/tronprotocol/tips/issues/24
-status: Final(core)
+status: Final
 type: Standards Track
 category: TRC
 created: 2019-03-04
