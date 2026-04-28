@@ -1,7 +1,8 @@
 ```
-TIP: 0001
+TIP: 01
 Title: Tron Wallet Proposal - Key Derivation Methods for Tron Accounts with BIP39
 Author: getty.io
+Category: Core
 Created: 2017-04-05
 ```
 

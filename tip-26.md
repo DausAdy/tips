@@ -1,3 +1,14 @@
+```
+tip: 26
+title: Add a contract creation function called CREATE2
+author: 
+discussions to: 
+status: Final
+type: Standards Track
+category: TRC
+created: 
+```
+
 ## Simple Summary
 
 A new contract creation function called CREATE2.
